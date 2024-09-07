@@ -1,2 +1,3 @@
 # PyWin10WallpaperChanger
-PyWin10WallpaperChanger by RiritoXXL
+
+My First Program for Changin Wallpaper via CTYPES... So Enjoy to use this!!!
